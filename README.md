@@ -1,5 +1,5 @@
 # **Graph Database Modeling and Querying (Neo4j)**  
-# ** Aarya Guddadkeri 1RVU23CSE005**
+# Aarya Guddadkeri 1RVU23CSE005
 
 ## 🧠 **Summary**
 This project focuses on building a **Graph Database Model** using **Neo4j** for an e-commerce platform called **ShopSmart**. It demonstrates how entities like **Users**, **Products**, **Brands**, **Categories**, and **Reviews** can be represented as interconnected nodes with relationships such as **BOUGHT**, **VIEWED**, **RATED**, and **BELONGS_TO**.
